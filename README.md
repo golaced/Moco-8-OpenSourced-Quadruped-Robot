@@ -1,10 +1,10 @@
 <div align=center><img width="600" height="130" src="https://github.com/golaced/OLDX_DRONE_SIM/blob/rmd/support_file/img_file/logo.JPG"/></div>
 <div align=center><img width="400" height="300" src="https://github.com/golaced/OLDX-FC_QUADRUPED_QUADROTOR/blob/rmd/support_file/img_file1/fc2.jpg"/></div>
 
-**-项目全开源-**
+**-项目全开源-**<br>
 Moco8项目目前已经全开源，开源PCB加工文件与官方机架，开源VMC原始1.3.5库的完整程序与遥控器程序，同样可以直接从淘宝官网或邮件预定整机（供货周期半个月）<br>
 
-English Version：https://github.com/golaced/OLDX-FC_QUADRUPED_QUADROTOR/tree/golaced-patch-1-en <br>
+**English Version**：https://github.com/golaced/OLDX-FC_QUADRUPED_QUADROTOR/tree/golaced-patch-1-en <br>
 
 全开源8自由度四足机器人  欢迎Star（原始资料：https://github.com/golaced/OLDX-FC_QUADRUPED_QUADROTOR）<br>
   ____OLDX-MocoMoco四足机器人（OLDX-MocoMoco Quadruped）是目前国内首个真正意义上的开源足式机器人二次开发平台，团队已经开发了一套完整的免费开源
