@@ -15,10 +15,11 @@ Moco8项目目前已经全开源，开源PCB加工文件与官方机架，开源
   等多个足式机器人核心技术内容。项目遵循GPL协议，能对DEMO内相关源码进行修改和二次开发。<br><br>
 
 **相关资料** <br>
-原始资料教程：https://github.com/golaced/OLDX-FC_QUADRUPED_QUADROTOR<br>
+组装资料教程：https://github.com/golaced/OLDX-FC_QUADRUPED_QUADROTOR<br>
 机器人测试视频更新地址：https://www.bilibili.com/video/av46405055 <br>
 为方便程序单独下载目前各版本固件从这下载：https://github.com/golaced/MocoMoco_Software<br>
 机器人校准视频教程：https://www.bilibili.com/video/av51603154<br>
+树莓派镜像和图像程序：https://github.com/golaced/OLDX_VISUAL_FOR_PI<br>
 <br>
 
 
